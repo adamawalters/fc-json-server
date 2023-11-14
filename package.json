@@ -1,5 +1,5 @@
 {
-  "name": "bankingapp-mock-api",
+  "name": "flashcard-mock-api",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start" : "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adama Walters",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.2"
